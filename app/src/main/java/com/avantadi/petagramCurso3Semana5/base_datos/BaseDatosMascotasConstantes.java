@@ -6,7 +6,7 @@ public class BaseDatosMascotasConstantes {
     public static final int DATABASE_VERSION = 1;
 
     //tablas
-    public static final String TABLE_PETS           = "contacto";
+    public static final String TABLE_PETS           = "mascota";
     public static final String TABLE_PETS_ID        = "id";
     public static final String TABLE_PETS_NOMBRE    = "nombre";
     public static final String TABLE_PETS_RATING    = "rating";

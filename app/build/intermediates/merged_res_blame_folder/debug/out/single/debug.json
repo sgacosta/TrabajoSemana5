@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_04_fin_likes.png.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_04_fin_likes.png"
+    },
+    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icons8_clown_fish_100.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-xhdpi\\icons8_clown_fish_100.png"
     },
@@ -12,12 +16,12 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_mi.xml.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\layout\\actionbar_mi.xml"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icons8_cat_100.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-hdpi\\icons8_cat_100.png"
+    },
+    {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_mi.xml.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\layout\\actionbar_mi.xml"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icons8_dog_bone_wellow.png.flat",
@@ -52,16 +56,16 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\layout\\activity_segunda_actividad.xml"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_pets_24.xml.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_pets_24.xml"
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_pets_24.xml.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_pets_24.xml"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icons8_hotel_96.png.flat",
@@ -76,10 +80,6 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-xhdpi\\icons8_cat_100.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_01_menus_y_fragment.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_01_menus_y_fragment.png"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_pets_24.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_pets_24.png"
     },
@@ -90,6 +90,10 @@
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_02_favoritos_inicio.png.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_02_favoritos_inicio.png"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icons8_german_shepherd_100.png.flat",
@@ -164,12 +168,12 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_home_24.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icons8_dog_bone_white_plus.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-ldpi\\icons8_dog_bone_white_plus.png"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icons8_clown_fish_100.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-ldpi\\icons8_clown_fish_100.png"
+    },
+    {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icons8_dog_bone_white_plus.png.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-ldpi\\icons8_dog_bone_white_plus.png"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_mascota.xml.flat",
@@ -228,16 +232,8 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-hdpi\\icons8_horse_100.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_04_menu_contacto_envio_email.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_04_menu_contacto_envio_email.png"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icons8_dog_bone_wellow.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-hdpi\\icons8_dog_bone_wellow.png"
-    },
-    {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_06_fragment_perfil.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_06_fragment_perfil.png"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icons8_dog_100.png.flat",
@@ -268,10 +264,6 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\layout\\activity_contacto.xml"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_02_menus.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_02_menus.png"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
@@ -294,6 +286,14 @@
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icons8_dog_100.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-mdpi\\icons8_dog_100.png"
+    },
+    {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_01_inicio.png.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_01_inicio.png"
+    },
+    {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_03_inicio_likes.png.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_03_inicio_likes.png"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icons8_cat_100.png.flat",
@@ -360,10 +360,6 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-ldpi\\icons8_hotel_96.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_05_menu_biografia.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_05_menu_biografia.png"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_pets_24.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_pets_24.png"
     },
@@ -384,10 +380,6 @@
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-xxxhdpi\\icons8_horse_100.png"
     },
     {
-        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_03_menu_contacto.png.flat",
-        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_03_menu_contacto.png"
-    },
-    {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icons8_dog_bone_white_plus.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-hdpi\\icons8_dog_bone_white_plus.png"
     },
@@ -402,6 +394,10 @@
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icons8_rabbit_100.png.flat",
         "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable-xxhdpi\\icons8_rabbit_100.png"
+    },
+    {
+        "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pantallazo_05_favoritos_fin.png.flat",
+        "source": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\src\\main\\res\\drawable\\pantallazo_05_favoritos_fin.png"
     },
     {
         "merged": "C:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
