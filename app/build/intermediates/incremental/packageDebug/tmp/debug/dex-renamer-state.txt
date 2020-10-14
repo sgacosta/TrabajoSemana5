@@ -1,0 +1,4 @@
+#Wed Oct 14 17:52:21 CEST 2020
+base.0=C\:\\datos\\Java\\2020 09 Curso en Coursea\\curso_3\\TrabajoSemana5\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

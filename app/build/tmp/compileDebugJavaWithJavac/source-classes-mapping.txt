@@ -1,0 +1,36 @@
+com/avantadi/petagramCurso3Semana5/fragment/PerfilMascotaFragment.java
+ com.avantadi.petagramCurso3Semana5.fragment.PerfilMascotaFragment
+com/avantadi/petagramCurso3Semana5/pojo/JSSEProvider.java
+ com.avantadi.petagramCurso3Semana5.pojo.JSSEProvider
+ com.avantadi.petagramCurso3Semana5.pojo.JSSEProvider$1
+com/avantadi/petagramCurso3Semana5/base_datos/BaseDatosMascotas.java
+ com.avantadi.petagramCurso3Semana5.base_datos.BaseDatosMascotas
+com/avantadi/petagramCurso3Semana5/base_datos/BaseDatosMascotasConstantes.java
+ com.avantadi.petagramCurso3Semana5.base_datos.BaseDatosMascotasConstantes
+com/avantadi/petagramCurso3Semana5/BuildConfig.java
+ com.avantadi.petagramCurso3Semana5.BuildConfig
+com/avantadi/petagramCurso3Semana5/MainActivity.java
+ com.avantadi.petagramCurso3Semana5.MainActivity
+com/avantadi/petagramCurso3Semana5/adapter/PerfilMascotaAdaptador.java
+ com.avantadi.petagramCurso3Semana5.adapter.PerfilMascotaAdaptador
+ com.avantadi.petagramCurso3Semana5.adapter.PerfilMascotaAdaptador$MascotaViewHolder
+com/avantadi/petagramCurso3Semana5/fragment/RecyclerViewFragment.java
+ com.avantadi.petagramCurso3Semana5.fragment.RecyclerViewFragment
+com/avantadi/petagramCurso3Semana5/AcercaDeActivity.java
+ com.avantadi.petagramCurso3Semana5.AcercaDeActivity
+com/avantadi/petagramCurso3Semana5/adapter/MascotaAdaptador.java
+ com.avantadi.petagramCurso3Semana5.adapter.MascotaAdaptador
+ com.avantadi.petagramCurso3Semana5.adapter.MascotaAdaptador$1
+ com.avantadi.petagramCurso3Semana5.adapter.MascotaAdaptador$MascotaViewHolder
+com/avantadi/petagramCurso3Semana5/pojo/Mascota.java
+ com.avantadi.petagramCurso3Semana5.pojo.Mascota
+com/avantadi/petagramCurso3Semana5/adapter/PaginaAdaptador.java
+ com.avantadi.petagramCurso3Semana5.adapter.PaginaAdaptador
+com/avantadi/petagramCurso3Semana5/ContactoActivity.java
+ com.avantadi.petagramCurso3Semana5.ContactoActivity
+ com.avantadi.petagramCurso3Semana5.ContactoActivity$1
+com/avantadi/petagramCurso3Semana5/SegundaActividad.java
+ com.avantadi.petagramCurso3Semana5.SegundaActividad
+com/avantadi/petagramCurso3Semana5/pojo/GMailSender.java
+ com.avantadi.petagramCurso3Semana5.pojo.GMailSender
+ com.avantadi.petagramCurso3Semana5.pojo.GMailSender$ByteArrayDataSource

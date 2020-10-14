@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Petagram (curso 3, semana 5)</string>
+    <string name="activity_name_segundaActividad">Petagram: mascotas favoritas</string>
+    <string name="menu_title_mAbout">Acerca de</string>
+    <string name="menu_title_mContacto">Contacto</string>
+    <string name="activity_name_ContactoActivity">Petagram: Contacto</string>
+    <string name="activity_name_AcercaDeActivity">Petagram: Acerca de</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="biografia_cabecera">Biografía de Pitágoras</string>
+    <string name="biografia">Pitágoras se cree que nació el 569 a.C. en la isla de Samos, junto a Mileto, siendo hijo de Menesarco, tal vez un rico comerciante de Samos.\n\n
+Probablemente viajó a Egipto, Fenicia y Babilonia. Volvió a Samos durante la dictadura de Policrates (538-522). Hacia 529 viajó al sur de Italia y fundó en Crotona la fraternidad pitagórica.\n\n
+La filosofía de Pitágoras se conoce sólo a través de la obra de sus discípulos. Los pitagóricos aconsejaban la obediencia y el silencio, la abstinencia, la sencillez en el vestir y el autoanálisis.\n\n
+Creían en la inmortalidad y en la transmigración del alma. Pitágoras proclamaba que él había sido Euphorbus, y combatido durante la guerra de Troya.\n\n
+En geometría descubrieron el teorema de la hipotenusa, conocido como teorema de Pitágoras, que establece que el cuadrado de la hipotenusa de un triángulo rectángulo es igual a la suma de los cuadrados de los otros dos lados. En astronomía los pitagóricos significaron un avance en el pensamiento científico clásico, ya que fueron los primeros en considerar la tierra como un globo que gira junto a otros planetas alrededor de un fuego central.
+    </string>
+
+    <string name="etContactoNombre">Nombre</string>
+    <string name="etContactoEmail">Email</string>
+    <string name="etContactoMensaje">Mensaje</string>
+    <string name="btContactoEnviarComentario">Enviar Comentario</string>
+    <string name="contacto_subject_email">\"Mensaje enviado desde App \"</string>
+    <string name="contacto_mensaje_error_email">Lo siento, no se pudo enviar el email</string>
+    <string name="contacto_mensaje_ok_email">Mensaje enviado, ¡gracias!</string>
+
+
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvMascotaCV"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/activity_vertical_margin"
+    card_view:cardCornerRadius="@dimen/corner_redius_cardview">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/activity_vertical_margin">
+
+        <ImageView
+            android:id="@+id/imgFotoCV"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+             android:src="@drawable/icons8_dog_100" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <ImageView
+                android:id="@+id/btnAddCV"
+                android:layout_width="@dimen/bone_image_size"
+                android:layout_height="@dimen/bone_image_size"
+                android:scaleType="fitXY"
+                android:src="@drawable/icons8_dog_bone_white_plus" />
+
+            <TextView
+                android:id="@+id/tvNombreCV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="tvNombreCV"
+                android:textSize="@dimen/nombre_cardview"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:textAlignment="textStart"
+                android:gravity="start"
+                android:layout_marginLeft="@dimen/margin_text_image"/>
+
+            <TextView
+                android:id="@+id/tvTotalCV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="tvTotalCV"
+                android:textSize="@dimen/nombre_cardview"
+                android:layout_weight="1"
+                android:textStyle="bold"
+                android:textAlignment="textEnd"
+                android:gravity="end" android:layout_marginRight="@dimen/margin_text_image" />
+            <ImageView
+                android:id="@+id/btnTotalCV"
+                android:layout_width="@dimen/bone_image_size"
+                android:layout_height="@dimen/bone_image_size"
+                android:scaleType="fitXY"
+                android:src="@drawable/icons8_dog_bone_wellow"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+
+    </androidx.cardview.widget.CardView>

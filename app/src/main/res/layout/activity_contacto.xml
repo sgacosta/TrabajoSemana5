@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContactoActivity"
+    android:orientation="vertical">
+    <include
+        android:id="@+id/miActionBarContacto"
+        layout="@layout/actionbar_mi" />
+
+    <EditText
+        android:id="@+id/etContactoNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/etContactoNombre"
+        />
+
+    <EditText
+        android:id="@+id/etContactoEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/etContactoEmail"
+        />
+
+    <EditText
+        android:id="@+id/etContactoMensaje"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/etContactoMensaje" />
+
+    <Button
+        android:id="@+id/btContactoEnviarComentario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btContactoEnviarComentario" />
+
+
+</LinearLayout>
